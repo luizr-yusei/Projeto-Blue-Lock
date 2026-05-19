@@ -2,68 +2,122 @@ const blueLock = [
 
     {
         nome:"Yoichi Isagi",
-        descricao:"Grande visão de jogo e inteligência.",
-        imagem:"https://static.wikia.nocookie.net/bluelock/images/2/24/Yoichi_Isagi_anime_design.png"
+        descricao:"O Yoichi Isagi é o mestre da adaptação. Diferente de outros jogadores que dependem de força física bruta ou velocidade, o Isagi joga com o cérebro. Ele evoluiu de um atacante comum para um jogador capaz de controlar todo o ecossistema do campo.",
+        imagem:"isagi.jpg"
     },
 
     {
         nome:"Rin Itoshi",
-        descricao:"O jogador mais forte do Blue Lock.",
-        imagem:"https://static.wikia.nocookie.net/bluelock/images/e/e7/Rin_Itoshi_anime_design.png"
+        descricao:"O Rin Itoshi é o jogador que por muito tempo ocupou o topo do Blue Lock, e por um motivo simples: ele é o jogador perfeito. Se o Isagi é o mestre da adaptação, o Rin é o mestre da dominação total.",
+        imagem:"rin.jpg"
     },
 
     {
         nome:"Meguru Bachira",
-        descricao:"Especialista em dribles e criatividade.",
-        imagem:"https://static.wikia.nocookie.net/bluelock/images/8/8d/Meguru_Bachira_anime_design.png"
+        descricao:"O Meguru Bachira é o mestre do drible e da criatividade no Blue Lock. Enquanto o Isagi joga com a lógica, o Bachira joga com o instinto e a alegria. Ele vê o futebol como uma brincadeira e os adversários como brinquedos.",
+        imagem:"meguro.jpg"
     },
 
     {
         nome:"Seishiro Nagi",
-        descricao:"Gênio natural do futebol.",
-        imagem:"https://static.wikia.nocookie.net/bluelock/images/d/d9/Seishiro_Nagi_anime_design.png"
+        descricao:"O Seishiro Nagi é frequentemente descrito como um gênio nato. Enquanto o Isagi precisa ralar e analisar cada detalhe para vencer, o Nagi faz coisas que desafiam a física puramente por instinto e talento técnico.",
+        imagem:"nagi.jpg"
     },
 
     {
         nome:"Shoei Barou",
-        descricao:"Conhecido como Rei.",
-        imagem:"https://static.wikia.nocookie.net/bluelock/images/3/34/Shoei_Barou_anime_design.png"
+        descricao:"O Shoei Barou é o oposto do Isagi. Enquanto o Isagi é o cérebro, o Barou é a força bruta e o caos. Ele se autointitula o Rei e joga para que todos os outros no campo o sirvam, transformando qualquer tática organizada em um cenário onde só a sua vontade prevalece.",
+        imagem:"barou.jpg"
     },
 
     {
         nome:"Gurimu Igarashi",
-        descricao:"Jogador conhecido por tentar cavar faltas e provocar adversários.",
-        imagem:"https://static.wikia.nocookie.net/bluelock/images/7/72/Gurimu_Igarashi_anime_design.png"
+        descricao:"O Gurimu Igarashi (ou simplesmente Igaguri) é aquele personagem que muita gente ama odiar, mas que sobreviveu no Blue Lock por muito mais tempo do que o esperado. Ele não tem o talento bruto do Rin ou a genialidade do Isagi, então ele joga sujo para sobreviver.",
+        imagem:"igagure.jpg"
     },
 
     {
         nome:"Aoshi Tokimitsu",
-        descricao:"Jogador extremamente forte fisicamente, apesar de sua ansiedade.",
-        imagem:"https://static.wikia.nocookie.net/bluelock/images/9/9c/Aoshi_Tokimitsu_anime_design.png"
+        descricao:"O Aoshi Tokimitsu é um dos jogadores mais peculiares do Blue Lock. Apesar de sua personalidade extremamente ansiosa, insegura e até um pouco chorona, ele esconde um dos físicos mais monstruosos de todo o projeto.",
+        imagem:"aoshi.jpg"
     },
 
     {
         nome:"Jingo Raichi",
-        descricao:"Meio-campista agressivo e especialista em marcação intensa.",
-        imagem:"https://static.wikia.nocookie.net/bluelock/images/5/5d/Jingo_Raichi_anime_design.png"
+        descricao:"O Jingo Raichi é aquele personagem que muita gente subestima pelo jeito explosivo, mas ele é um dos jogadores mais úteis taticamente no Blue Lock, especialmente depois da Liga Neo Egoísta. Ele se autointitula o dono do Futebol Sexy, mas o estilo dele é puro trabalho sujo e resistência.",
+        imagem:"rachi.jpg"
     },
 
     {
         nome:"Ranze Kurona",
-        descricao:"Jogador veloz e parceiro ideal para jogadas rápidas.",
-        imagem:"https://static.wikia.nocookie.net/bluelock/images/e/e4/Ranze_Kurona_colored.png"
+        descricao:"O Ranze Kurona se tornou um dos aliados mais importantes do Isagi durante a Liga Neo Egoísta, especialmente no Bastard München. Ele não é um jogador de brilho individual como o Barou ou o Nagi, mas é o parceiro ideal para um sistema de jogo coletivo e veloz.",
+        imagem:"kurona.jpg"
     },
 
     {
         nome:"Nijiro Nanase",
+        descricao:"O Nijiro Nanase é um personagem que se destaca muito pelo seu esforço e pela sua personalidade pé no chão dentro do ambiente tóxico do Blue Lock. Ele não começou com um talento de gênio como o Nagi ou a velocidade do Chigiri, mas evoluiu muito durante a Liga Neo Egoísta, especialmente jogando pelo PXG.",
+        imagem:"nanase.jpg"
+    },
+    
+    {
+        nome:"Gin Gagamaru",
+        descricao:"O Gin Gagamaru é, sem dúvida, um dos personagens mais únicos e carismáticos de Blue Lock. Ele começou como atacante, mas se encontrou de verdade quando assumiu as luvas, tornando-se o goleiro oficial do projeto.",
+        imagem:"gagamaru.jpg"
+    },
+
+    {
+        nome:"Jyubei Aryu",
+        descricao:"O Jyubei Aryu é um dos personagens mais excêntricos e visualmente únicos de Blue Lock. Ele é obcecado por tudo que é estiloso (glam) e usa sua fisionomia diferenciada para dominar o campo de uma forma que poucos conseguem.",
+        imagem:"aryu.jpg"
+    },
+
+     {
+        nome:"Ikki Niko",
+        descricao:"O Ikki Niko é, de muitas formas, a versão defensiva do Isagi. Ele começou como um atacante na primeira seleção, mas descobriu que seu verdadeiro talento está em esmagar o futebol dos outros através da observação.",
+        imagem:"niko.jpg"
+    },
+
+    {
+        nome:"Hyoma Chigiri",
+        descricao:"O Hyoma Chigiri é conhecido como a Pantera do Blue Lock, e sua evolução é uma das mais emocionantes de acompanhar. Depois de superar o trauma da lesão no joelho, ele se tornou um dos alas/laterais mais perigosos do mundo.",
+        imagem:"chigiri.jpg"
+    },
+
+     {
+        nome:"Tabito Karasu",
         descricao:"Jogador cooperativo com ótima adaptação em equipe.",
-        imagem:"https://static.wikia.nocookie.net/bluelock/images/4/46/Nijiro_Nanase_colored.png"
+        imagem:"karasu.jpg"
+    },
+
+     {
+        nome:"Eita Otoya",
+        descricao:"Jogador cooperativo com ótima adaptação em equipe.",
+        imagem:"eita.jpg"
+    },
+
+    {
+        nome:"Kenyu Yukimiya",
+        descricao:"Jogador cooperativo com ótima adaptação em equipe.",
+        imagem:"kenyu.jpg"
+    },
+
+    {
+        nome:"Reo Mikage",
+        descricao:"Jogador cooperativo com ótima adaptação em equipe.",
+        imagem:"reo.jpg"
+    },
+
+    {
+        nome:"Yo Hiori",
+        descricao:"Jogador cooperativo com ótima adaptação em equipe.",
+        imagem:"yo.jpg"
     },
 
     {
         nome:"Jin Kiyora",
         descricao:"Jogador misterioso do Blue Lock com ótimo controle de bola.",
-        imagem:"https://static.wikia.nocookie.net/bluelock/images/8/83/Jin_Kiyora_colored.png"
+        imagem:"jin.jpg"
     }
 
 ];
@@ -73,73 +127,73 @@ const sub20 = [
     {
         nome:"Sae Itoshi",
         descricao:"Craque da seleção japonesa Sub-20.",
-        imagem:"https://static.wikia.nocookie.net/bluelock/images/6/61/Sae_Itoshi_anime_design.png"
+        imagem:"sae.jpg"
     },
 
     {
         nome:"Oliver Aiku",
         descricao:"Capitão da seleção.",
-        imagem:"https://static.wikia.nocookie.net/bluelock/images/f/f8/Oliver_Aiku_anime_design.png"
+        imagem:"aiku.jpg"
     },
 
     {
         nome:"Shuto Sendo",
         descricao:"Atacante do Japão Sub-20.",
-        imagem:"https://static.wikia.nocookie.net/bluelock/images/5/5d/Shuto_Sendo_anime_design.png"
+        imagem:"sendo.jpg"
     },
 
     {
         nome:"Gen Fukaku",
         descricao:"Goleiro da seleção japonesa Sub-20.",
-        imagem:"https://static.wikia.nocookie.net/bluelock/images/0/06/Gen_Fukaku_colored.png"
+        imagem:"gen.jpg"
     },
 
     {
         nome:"Kazuma Niou",
         descricao:"Zagueiro extremamente forte fisicamente.",
-        imagem:"https://static.wikia.nocookie.net/bluelock/images/6/62/Kazuma_Niou_colored.png"
+        imagem:"niou.jpg"
     },
 
     {
         nome:"Teppei Neru",
         descricao:"Lateral rápido da seleção japonesa Sub-20.",
-        imagem:"https://static.wikia.nocookie.net/bluelock/images/5/54/Teppei_Neru_colored.png"
+        imagem:"neru.jpg"
     },
 
     {
         nome:"Miroku Darai",
         descricao:"Defensor agressivo e veloz.",
-        imagem:"https://static.wikia.nocookie.net/bluelock/images/e/e5/Miroku_Darai_colored.png"
+        imagem:"darai.jpg"
     },
 
     {
         nome:"Haru Hayate",
         descricao:"Jogador técnico do Japão Sub-20.",
-        imagem:"https://static.wikia.nocookie.net/bluelock/images/8/8f/Haru_Hayate_colored.png"
+        imagem:"haru.jpg"
     },
 
     {
         nome:"Itsuki Wakatsuki",
         descricao:"Jogador da seleção japonesa Sub-20.",
-        imagem:"https://static.wikia.nocookie.net/bluelock/images/7/74/Itsuki_Wakatsuki_colored.png"
+        imagem:"itsuki.jpg"
     },
 
     {
         nome:"Teru Kitsunezato",
         descricao:"Atleta veloz do Japão Sub-20.",
-        imagem:"https://static.wikia.nocookie.net/bluelock/images/2/2f/Teru_Kitsunezato_colored.png"
+        imagem:"teru.jpg"
     },
 
     {
         nome:"Kento Chou",
         descricao:"Jogador defensivo com ótima leitura de jogo.",
-        imagem:"https://static.wikia.nocookie.net/bluelock/images/9/9e/Kento_Cho_colored.png"
+        imagem:"chou.jpg"
     },
 
     {
         nome:"Shidou Ryusei",
         descricao:"Atacante extremamente explosivo e imprevisível.",
-        imagem:"https://static.wikia.nocookie.net/bluelock/images/4/47/Ryusei_Shidou_anime_design.png"
+        imagem:"shidou.jpg"
     }
 
 ];
